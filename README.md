@@ -1,6 +1,6 @@
 # Landing page of a Virtual Reality arcade experience
 
-# Technologies
+## Technologies
 - Plain HTML & CSS
 
 ![alt text](/docs/images/main-screen.jpg?raw=true)
